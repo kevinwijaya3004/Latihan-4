@@ -1,0 +1,8 @@
+D:\SharpDevelop Projects\latihan 4\latihan 4\bin\Debug\latihan 4.exe.config
+D:\SharpDevelop Projects\latihan 4\latihan 4\bin\Debug\latihan 4.exe
+D:\SharpDevelop Projects\latihan 4\latihan 4\bin\Debug\latihan 4.pdb
+D:\SharpDevelop Projects\latihan 4\latihan 4\obj\Debug\latihan 4.csprojResolveAssemblyReference.cache
+D:\SharpDevelop Projects\latihan 4\latihan 4\obj\Debug\latihan_4.MainForm.resources
+D:\SharpDevelop Projects\latihan 4\latihan 4\obj\Debug\latihan 4.csproj.GenerateResource.Cache
+D:\SharpDevelop Projects\latihan 4\latihan 4\obj\Debug\latihan 4.exe
+D:\SharpDevelop Projects\latihan 4\latihan 4\obj\Debug\latihan 4.pdb
